@@ -22,5 +22,5 @@ Lost Wiki: Kozlovka 한국어 패치
 
 ## 사용법
 
-1. [최신 Release](https://github.com/killterm/Localization-LostWiki/releases)를 게임 설치 경로에 다운로드
+1. [최신 Release 다운로드](https://github.com/killterm/Localization-LostWiki/releases/download/1.0/LostWikiKozlovkaPatcher.exe) 후 게임 설치 경로로 이동
 2. 실행
