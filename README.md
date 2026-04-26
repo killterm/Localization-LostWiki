@@ -20,5 +20,5 @@
 
 ## 사용법
 
-1. [최신 Release 다운로드](https://github.com/killterm/Localization-LostWiki/releases/download/1.0/LostWikiKozlovkaPatcher.exe) 후 게임 설치 경로로 이동
+1. [최신 Release 다운로드](https://github.com/killterm/Localization-LostWiki/releases/download/1.1/LostWikiKozlovkaPatcher.exe) 후 게임 설치 경로로 이동
 2. 실행
