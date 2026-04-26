@@ -1,6 +1,4 @@
-# Godot-Localization-Spindle
-
-Lost Wiki: Kozlovka 한국어 패치
+# Lost Wiki: Kozlovka 한국어 패치
 
 - 게임 데이터의 저작권은 모두 제작사에 있습니다.
   - 이 패치는 제작사의 요청에 의해 언제든 삭제될 수 있습니다.
