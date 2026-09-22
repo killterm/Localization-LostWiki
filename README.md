@@ -6,7 +6,7 @@
 
 ## 게임
 
-- [스팀 상점 페이지]([https://store.steampowered.com/app/1386750/Spindle/](https://store.steampowered.com/app/4018950/Lost_Wiki_Kozlovka/))
+- [스팀 상점 페이지](https://store.steampowered.com/app/4018950/)
 - 대응: Build 22728059 on 10 April 2026
 
 <img width="2560" height="1440" alt="lost-wiki" src="https://github.com/user-attachments/assets/5cfef87d-8109-4cf0-bb3e-8891190d0472" />
@@ -20,5 +20,5 @@
 
 ## 사용법
 
-1. [최신 Release 다운로드](https://github.com/killterm/Localization-LostWiki/releases/download/1.4/LostWikiKozlovkaPatcher.exe) 후 게임 설치 경로로 이동
-2. 실행
+1. [최신 Release](https://github.com/killterm/Localization-LostWiki/releases/latest)를 게임 설치 경로에 다운로드
+2. 실행해서 설치
